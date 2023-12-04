@@ -37,3 +37,18 @@ How to use:
 + Put your txt file name and wav file name in the code.
 + Open a terminal in the directory containing the wav file and txt file and compile using command: g++ -std=c++23 trimmer.cpp -o trim
 + Run the executable with command ./trim
+
+How to trim:
+
+If you do not want a certain portion of audio write down "delete" as the song name in the txt file. Like this: 
+
+\- \- \- \- \- \- \- \- \-
+
+0:00 piano solo      
+
+0:59 delete  
+
+1:55 flute solo      
+\- \- \- \- \- \- \- \- \- 
+
+With this txt file, you will not get vocal solo.wav like the previous example.
