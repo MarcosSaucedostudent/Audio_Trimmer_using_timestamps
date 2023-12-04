@@ -13,9 +13,9 @@
 int main () {
 
   //
-  const std::string name_of_song {"El y Yo Franco Escamilla.wav"}; // please include extension and make sure its a WAV file.
+  const std::string name_of_song {"Colour My World.wav"}; // please include extension and make sure its a WAV file.
 
-  const std::string name_of_txt_file {"doomer.txt"}; // include the extension
+  const std::string name_of_txt_file {"Colour My World timestamps.txt"}; // include the extension
 
   driver_function(name_of_txt_file, name_of_song);
 
