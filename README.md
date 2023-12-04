@@ -1,4 +1,7 @@
 # Macro_repos / Audio Trimmer using Timestamps
+
+![Language](https://img.shields.io/badge/language-C++-yellow.svg?style=flat-square)
+
 Repository for projects
 
 Prerequisites:
