@@ -1,4 +1,4 @@
-# Macro_repos
+# Macro_repos / Audio Trimmer using Timestamps
 Repository for projects
 
 Prerequisites:
